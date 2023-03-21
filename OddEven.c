@@ -53,7 +53,7 @@ void main(){
             }else if(compruns>runs){
                 printf("Oops! Better Luck Next Time :C\n");
             }else if(compruns==runs){
-                printf("The game has ended in a draw\n");
+                printf("The game has ended in a draw!\n");
             }
         }else{
             printf("The Player has won the toss and has decided to Bat first!\n");
@@ -90,7 +90,7 @@ void main(){
             }else if(compruns>runs){
                 printf("Oops! Better Luck Next Time :C\n");
             }else if(compruns==runs){
-                printf("The game has ended in a draw\n");
+                printf("The game has ended in a draw!\n");
             }
         }
     }else{
@@ -132,7 +132,7 @@ void main(){
             }else if(compruns>runs){
                 printf("Oops! Better Luck Next Time :C\n");
             }else if(compruns==runs){
-                printf("The game has ended in a draw\n");
+                printf("The game has ended in a draw!\n");
             }
         }else{
             printf("The Computer has won the toss and has decided to Bat first!\n");
@@ -170,7 +170,7 @@ void main(){
             }else if(compruns>runs){
                 printf("Oops! Better Luck Next Time :C\n");
             }else if(compruns==runs){
-                printf("The game has ended in a draw\n");
+                printf("The game has ended in a draw!\n");
             }
         }
     }
