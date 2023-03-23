@@ -168,9 +168,9 @@ void main(){
             if(runs>compruns){
                 printf("Congratulations! You have won the game!\n");
             }else if(compruns>runs){
-                printf("Oops! Better Luck Next Time :C\n");
+                printf("Oops! Better Luck Next Time  :C\n");
             }else if(compruns==runs){
-                printf("The game has ended in a draw!\n");
+                printf("The game has ended in a draw !\n");
             }
         }
     }
