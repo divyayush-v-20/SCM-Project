@@ -4,7 +4,7 @@
 void main(){
     printf("Enter 1 to call for Odd and 0 to call for Even\n");
     int call;
-    scanf("%d",&call);//input 0 for even and 1 for odd
+    scanf("%d",&call);//input 0 for even and 1 for odd//
     srand(time(0));
     int compcall;
     compcall=rand()%6+1;
