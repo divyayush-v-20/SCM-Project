@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
+#include<stdlib.h>// hyder file
 #include<time.h>
 void main(){
     printf("Enter 1 to call for Odd and 0 to call for Even\n");
