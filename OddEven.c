@@ -7,7 +7,7 @@ void main(){
     scanf("%d",&call);//input 0 for even and 1 for odd//
     srand(time(0));
     int compcall;
-    compcall=rand()%6+1;
+    compcall=rand()%6+1;;
     printf("Enter the Number for toss\n");
     int toss;
     scanf("%d",&toss);   
@@ -84,7 +84,7 @@ void main(){
                     break;
                 }
                 j--;
-            }printf("The computer has scored %d runs\n",compruns);
+            }printf("The computer has scored %d runs \n",compruns);
             if(runs>compruns){
                 printf("Congratulations! You have won the game!\n");
             }else if(compruns>runs){
